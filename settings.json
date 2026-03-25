@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "UTkabhai.aternos.me",
+    "ip": "UTkabhai.aternos.me:34437",
     "port": 34437,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
@@ -27,8 +27,8 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
-      "repeat": true,
+      "enabled": false,
+      "repeat": false,
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
