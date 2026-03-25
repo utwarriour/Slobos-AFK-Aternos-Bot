@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "UTkabhai.aternos.me:34437",
+    "ip": "UTkabhai.aternos.me",
     "port": 34437,
     "version": "1.21.11",
     "try-creative": false
